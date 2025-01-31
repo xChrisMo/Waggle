@@ -32,9 +32,7 @@ Unto the Design requirements,
 
 #### Data Model
 The data model in its Star Schema form:
-
-
-https://github.com/xChrisMo/Waggle/blob/main/images/Home.jpeg
+![Schema](images/DataSchema.png)
 
 ## Project Report
 #### Home 
@@ -42,10 +40,10 @@ https://github.com/xChrisMo/Waggle/blob/main/images/Home.jpeg
 
 #### Pets Summary
 ![Pet Summary Page](images/PetSummary.jpeg)
-
+![Demography](images/Demography.jpeg)
 
 #### Family Summary
-![Family Summary Page](images/FamilySummary.jpeg)
+![Family Summary Page](images/FamilyySummary.jpeg)
 
 #### Family Summary Drilldown
 ![Family DrillDown](images/FamilyDrilldownSummary.jpeg)
