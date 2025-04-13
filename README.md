@@ -1,4 +1,6 @@
 # Waggle
+[Find the entire work here](https://app.powerbi.com/view?r=eyJrIjoiYTFmZmY4Y2MtYTY4OS00NGRjLWIzNGYtNzU4MmZkNzhiY2Q3IiwidCI6Ijk2ZDUwZjcyLWE2MGMtNDgwOS1iNGI1LTIwYjQ5NDUxNjFhZSJ9&pageName=0e66a110cc63620c4a0b)
+
 
 ## Overview
 The task here is to create a boardroom paginated report demo that tells the story of how Waggle's new product 'LapCat' compares to the original product 'LapDog' in its new expansion.
@@ -28,7 +30,6 @@ Unto the Design requirements,
 
 
 # Project Submission 
-Find the entire work [here](https://app.powerbi.com/view?r=eyJrIjoiYTFmZmY4Y2MtYTY4OS00NGRjLWIzNGYtNzU4MmZkNzhiY2Q3IiwidCI6Ijk2ZDUwZjcyLWE2MGMtNDgwOS1iNGI1LTIwYjQ5NDUxNjFhZSJ9&pageName=0e66a110cc63620c4a0b)
 
 #### Data Model
 The data model in its Star Schema form:
